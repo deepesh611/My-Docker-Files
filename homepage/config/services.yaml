@@ -1,0 +1,69 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services/
+
+- Server Management:
+    - Dozzle:
+        icon: dozzle.png
+        href: http://127.0.0.1:8080
+        description: Monitor your container logs here
+        server: my-docker
+        container: sad_hugle
+        showStats: true
+        
+    - Portainer:
+        icon: portainer.png
+        href: https://localhost:9443
+        description: Manage your containers here...
+        server: my-docker
+        container: portainer
+        showStats: true
+        widget:
+          type: portainer
+          url: https://192.168.215.2:9443
+          env: 3
+        #   kubernetes: true # optional, defaults to false
+          key: ptr_wzAk5R78tjUsBRGa47QeK8VY/q2p/FNdwllk2PV94W4=
+    
+    # - File Browser:
+    #     icon: filebrowser.png
+    #     href: http://localhost:8080
+    #     description: Manage your file sharing...
+    #     server: my-docker
+    #     container: filebrowser
+    #     showStats: true
+        # widget:
+        #   type: filebrowser
+        #   url: http://172.19.0.2:8080
+        #   username: 
+        #   password: 
+
+# - Entertainment:
+#     - Jellyfin:
+#         icon: jellyfin.png
+#         href: http://localhost:8096
+#         description: Media Server
+#         server: my-docker
+#         container: jellyfin
+#         showStats: true
+#         widget:
+#           type: jellyfin
+#           url: http://172.18.0.2:8096
+#           key: 7c0d5732c0e342db8d7e6a926ba42a30
+#           enableBlocks: true # optional, defaults to false
+#           enableNowPlaying: true # optional, defaults to true
+#           enableUser: true # optional, defaults to false
+#           enableMediaControl: false # optional, defaults to true
+#           showEpisodeNumber: true # optional, defaults to false
+#           expandOneStreamToTwoRows: false # optional, defaults to true
+
+- Development:
+    - N8N:
+        icon: n8n.png
+        href: http://localhost:5678
+        description: Workflow Automation
+        server: my-docker
+        container: n8n
+        showStats: true
+        
+

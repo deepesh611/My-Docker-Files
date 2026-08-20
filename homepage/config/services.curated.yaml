@@ -1,0 +1,36 @@
+---
+# Hand-maintained Homepage service overrides.
+# Synced into services.yaml by scripts/sync-homepage-services.sh
+# Entries here win over auto-discovered cards with the same container name.
+# If the container is missing, the entry (and its widget) is omitted automatically.
+# API keys live in widget-secrets.yaml (gitignored) — see widget-secrets.yaml.example
+# https://gethomepage.dev/configs/services/
+
+- Server Management:
+    - Dozzle:
+        icon: dozzle.png
+        href: http://127.0.0.1:8080
+        description: Monitor your container logs here
+        server: my-docker
+        container: sad_hugle
+        showStats: true
+
+    - Portainer:
+        icon: portainer.png
+        href: https://localhost:9443
+        description: Manage your containers here...
+        server: my-docker
+        container: portainer
+        showStats: true
+        # Widget filled from Homepage docs + widget-secrets.yaml
+        widget:
+          type: portainer
+
+- Development:
+    - N8N:
+        icon: n8n.png
+        href: http://localhost:5678
+        description: Workflow Automation
+        server: my-docker
+        container: n8n
+        showStats: true

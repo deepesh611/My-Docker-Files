@@ -6250,3 +6250,269 @@
   }
 ]
 [2026-07-02T07:31:24.725Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.3:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-07-19T11:07:56.121Z] info: 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙
+[2026-07-22T11:42:57.567Z] info: 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙
+[2026-07-28T07:47:53.564Z] info: 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙
+[2026-07-28T07:47:53.750Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-07-28T07:47:53.752Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-07-28T07:47:53.753Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-07-28T12:57:16.434Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-07-28T12:57:16.437Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-07-28T12:57:16.438Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-07-28T12:57:16.450Z] info: 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙
+[2026-07-28T12:57:16.621Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-07-28T12:57:16.622Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-07-28T12:57:16.622Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-13T09:50:29.133Z] info: 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙
+[2026-08-13T09:50:29.322Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-13T09:50:29.325Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-13T09:50:29.325Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-13T09:56:37.928Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-13T09:56:37.928Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-13T09:56:37.929Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T08:01:15.484Z] info: 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙
+[2026-08-20T08:01:15.619Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T08:01:15.620Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T08:01:15.620Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T08:20:37.895Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T08:20:37.898Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T08:20:37.898Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T08:23:32.912Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T08:23:32.914Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T08:23:32.915Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T08:40:40.212Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T08:40:40.213Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T08:40:40.213Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T08:40:59.056Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T08:40:59.059Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T08:40:59.060Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T08:41:05.738Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T08:41:05.739Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T08:41:05.739Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T09:20:55.999Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T09:20:56.001Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T09:20:56.001Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T09:37:05.009Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T09:37:05.010Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T09:37:05.010Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T09:57:33.494Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T09:57:33.495Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T09:57:33.495Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T10:22:14.368Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T10:22:14.368Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T10:22:14.368Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T10:27:50.336Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T10:27:50.337Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T10:27:50.338Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T10:27:54.470Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T10:27:54.471Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T10:27:54.471Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T10:27:59.519Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T10:27:59.520Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T10:27:59.520Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T10:29:26.571Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T10:29:26.572Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T10:29:26.572Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1
+[2026-08-20T10:30:10.650Z] error: <httpProxy> Error calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json...
+[2026-08-20T10:30:10.650Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.215.2:9443
+      at <unknown> (Error: connect ECONNREFUSED 192.168.215.2:9443) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.215.2',
+    port: 9443
+  }
+]
+[2026-08-20T10:30:10.651Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.215.2:9443/api/endpoints/3/docker/containers/json?all=1

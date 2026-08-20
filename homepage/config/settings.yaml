@@ -2,14 +2,10 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/settings/
 
-
-
-
 title: Homepage 🏡
 
-
 # looks & operations
-background: 
+background:
     image: https://wallpapercave.com/wp/wp9668133.jpg
     opacity: 80
 
@@ -18,11 +14,9 @@ theme: dark # or light
 cardBlur: xs # xs, md, etc... see https://tailwindcss.com/docs/backdrop-blur
 
 layout:
-  - Auto-Discovered1:
-  - Configured1:
-  - Configured2:
-  - Auto-Discovered2:
-  - Configured3:
+  - Server Management:
+  - Development:
+  - Other Containers:
       style: row
       columns: 3
 
@@ -30,6 +24,5 @@ headerStyle: boxedWidgets
 
 showStats: true
 statusStyle: "dot"
-
 
 target: _blank # Possible options include _blank, _self, and _top

@@ -1,1 +1,5 @@
 .DS_Store
+external
+# Homepage widget API keys
+homepage/config/widget-secrets.yaml
+homepage/config/.cache/

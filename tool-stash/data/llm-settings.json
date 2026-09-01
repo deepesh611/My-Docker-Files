@@ -1,0 +1,8 @@
+{
+  "provider": "ollama",
+  "models": {
+    "claude": "claude-sonnet-5",
+    "openai": "gpt-4o",
+    "ollama": "gpt-oss:latest"
+  }
+}

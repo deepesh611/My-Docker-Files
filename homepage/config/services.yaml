@@ -93,15 +93,14 @@
 
     - qdrant:
         icon: qdrant.png
-        description: qdrant · Up
+        description: qdrant · Exited
         server: my-docker
         container: qdrant
         showStats: true
-        href: "http://localhost:6333"
 
     - self-hosted-ai-starter-kit-postgres:
         icon: postgres.png
-        description: postgres · Up
+        description: postgres · Exited
         server: my-docker
         container: self-hosted-ai-starter-kit-postgres-1
         showStats: true
@@ -110,54 +109,53 @@
 - tool-stash:
     - tool-stash-backend:
         icon: docker.png
-        description: tool-stash-backend · Exited
+        description: tool-stash-backend · Up
         server: my-docker
         container: tool-stash-backend-1
         showStats: true
+        href: "http://localhost:8001"
 
     - tool-stash-frontend:
         icon: docker.png
-        description: tool-stash-frontend · Exited
+        description: tool-stash-frontend · Up
         server: my-docker
         container: tool-stash-frontend-1
         showStats: true
+        href: "http://localhost:3000"
 
 
 - Other Containers:
     - micromaven:
         icon: docker.png
-        description: micromaven · Up
+        description: micromaven · Exited
         server: my-docker
         container: micromaven
         showStats: true
-        href: "http://localhost:6420"
 
     - micronpm:
         icon: docker.png
-        description: micronpm · Restarting
+        description: micronpm · Exited
         server: my-docker
         container: micronpm
         showStats: true
 
     - micropypi:
         icon: docker.png
-        description: micropypi · Restarting
+        description: micropypi · Exited
         server: my-docker
         container: micropypi
         showStats: true
 
     - microspack:
         icon: docker.png
-        description: microspack · Up
+        description: microspack · Exited
         server: my-docker
         container: microspack
         showStats: true
-        href: "http://localhost:6424"
 
     - microtfr:
         icon: docker.png
-        description: microtfr · Up
+        description: microtfr · Exited
         server: my-docker
         container: microtfr
         showStats: true
-        href: "http://localhost:6422"
